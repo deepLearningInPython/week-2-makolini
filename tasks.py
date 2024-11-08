@@ -1,7 +1,7 @@
 import numpy as np  # linear algebra
-import pandas as pd  # data processing, CSV file I/O (e.g. pd.read_csv)
-from scipy.optimize import minimize  # Python version of R's optim() function
-from sklearn import datasets
+import pandas as pd  # data processing, CSV file I/O (e.g. pd.read_csv) # noqa
+from scipy.optimize import minimize  # Python version of R's optim() function # noqa
+from sklearn import datasets  # noqa
  
 # Carry out the exercises in your own copy of the notebook that you can find at
 #    https://www.kaggle.com/code/datasniffer/perceptrons-mlp-s-and-gradient-descent.
